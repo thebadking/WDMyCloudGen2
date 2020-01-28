@@ -1,0 +1,17 @@
+Package:          WDSleepFix
+Packager:         Fox
+Email:            fox.axon@gmail.com
+Homepage:         http://anionix.ru
+Description:      WD Hacks, Fixes and other stuff
+Icon:             WDSleepFix.png
+AddonShowName:    WDSleepFix
+AddonIndexPage:
+AddonUsedPort:	
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+Version:          1.0
+MinFWVer:
+MaxFWVer:
+IndividualFlag:

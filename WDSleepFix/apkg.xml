@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <apkg>
+    <item>
+      <procudt_id>0</procudt_id>
+      <custom_id>20</custom_id>
+      <model_id>2</model_id>
+      <user_control>0</user_control>
+      <center_type>0</center_type>
+      <individual_flag>0</individual_flag>
+      <name>WDSleepFix</name>
+      <show>WDSleepFix</show>
+      <enable>1</enable>
+      <version>1.0</version>
+      <date>20170303</date>
+      <inst_date>01/24/2020 14:39:01</inst_date>
+      <path>/mnt/HD/HD_a2/Nas_Prog/WDSleepFix</path>
+      <ps_name></ps_name>
+      <url></url>
+      <url_port></url_port>
+      <apkg_version>2</apkg_version>
+      <packager>Fox</packager>
+      <email>fox.axon@gmail.com</email>
+      <homepage>http://anionix.ru</homepage>
+      <inst_depend></inst_depend>
+      <inst_conflict></inst_conflict>
+      <start_depend></start_depend>
+      <start_conflict></start_conflict>
+      <description>WD Hacks, Fixes and other stuff</description>
+      <icon>WDSleepFix.png</icon>
+      <MinFWVer></MinFWVer>
+      <MaxFWVer></MaxFWVer>
+      <Hidden></Hidden>
+    </item>
+  </apkg>
+</config>

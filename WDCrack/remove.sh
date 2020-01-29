@@ -7,6 +7,7 @@ ORIGINAL=/mnt/HD/HD_a2/Nas_Prog/WDCrack/original.js
 # RESTORE
 cp -f $ORIGINAL $DEFINES
 
+# REMOVE
 rm -f /var/www/WDCrack
 rm -rf $INSTALL_DIR
 

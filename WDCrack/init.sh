@@ -9,6 +9,6 @@ ORIGINAL=/mnt/HD/HD_a2/Nas_Prog/WDCrack/original.js
 ln -sf $INSTALL_DIR/web /var/www/WDCrack
 
 # Backup
-cp $DEFINES $ORIGINAL
+cp -n $DEFINES $ORIGINAL
 # SET
 cp -f $ENABLE $DEFINES

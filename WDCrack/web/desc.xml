@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <config>
-  <en-US>Fix and hacks for WD MyCloud</en-US>
-  <ru-RU>Набор фиксов и хаков для вашего WD MyCloud</ru-RU>
+  <en-US>WD MyCloud Enabler</en-US>
 </config>
